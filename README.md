@@ -1,20 +1,9 @@
 <div align="center">
 
 
-<header style="position: relative; width : 100%; height : 400px;">
 <img 
 style="width : 100%; height : 400px; position: absolute; left : 0;" 
 src="./assets/unsplash-background.jpg">
-<img 
-style="width : 150px; height : 150px; position: absolute; left : 50% ;top : 30% ; transform:translate(-50%,-50%); border-radius: 80px;" 
- src="https://avatars.githubusercontent.com/u/36612967?v=4">
-<p style="position: absolute; left : 50% ;top : 70% ; transform:translate(-50%,-50%); border-radius: 80px; font-size : 42px; font-weight: bold; color:block;">
-Hello World
-</p>
-<p style="position: absolute; left : 70% ;top : 82% ; transform:translate(-50%,-50%); border-radius: 80px; font-size : 15px; font-weight: bold; color:#203239;">
-어서오세요 저의 깃허브에
-</p>
-</header>
 <br />
 <br />
 
